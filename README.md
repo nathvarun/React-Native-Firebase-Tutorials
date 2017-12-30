@@ -1,6 +1,6 @@
 # Project files for the react native firebase tutorial series on youtube. 
 
-- ## [React Native Firebase Tutorials ](https://www.youtube.com/playlist?list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm)
+- ## [React Native Firebase Tutorials ](https://www.youtube.com/watch?v=KnwfK807Mgc&t=1s&list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm&index=1)
 
 
 

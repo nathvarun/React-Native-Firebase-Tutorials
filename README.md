@@ -1,4 +1,10 @@
-# Tutorial-React-Native-Firebase-#3-Facebook-Login Complete Project Files.
+# Project files for the react native firebase tutorial series on youtube. 
+
+- ## [React Native Firebase Tutorials ](https://www.youtube.com/watch?v=KnwfK807Mgc&t=1s&list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm&index=1)
+
+
+
+### Tutorial #3 Facebook-Login Complete Project Files.
 
 - Learn how to add Facebook Login to Your React Native + Firebase App.
 
